@@ -6,6 +6,8 @@ $ablakcim = array(
     'cim' => $ceg,
 );
 
+$video = ['forras'=>'video-1620420375.mp4'];
+
 $fejlec = array(
     'kepforras' => 'logo.jpg',
     'kepalt' => 'logo',
