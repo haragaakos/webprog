@@ -1,11 +1,23 @@
-<h2>Köszöntés</h2>
-<img src="./images/arc.jpg">
-<h3>Mi a Lorem Ipsum?</h3>
-<p>A Lorem Ipsum egy egyszerû szövegrészlete, szövegutánzata a betûszedõ és nyomdaiparnak. A Lorem Ipsum az 1500-as évek óta standard szövegrészletként szolgált az iparban; mikor egy ismeretlen nyomdász összeállította a betûkészletét és egy példa-könyvet vagy szöveget nyomott papírra, ezt használta. Nem csak 5 évszázadot élt túl, de az elektronikus betûkészleteknél is változatlanul megmaradt. Az 1960-as években népszerûsítették a Lorem Ipsum részleteket magukbafoglaló Letraset lapokkal, és legutóbb softwarekkel mint például az Aldus Pagemaker.</p>
-<h3>Honnan származik?</h3>
-<p>A hiedelemmel ellentétben a Lorem Ipsum nem véletlenszerû szöveg. Gyökerei egy Kr. E. 45-ös latin irodalmi klasszikushoz nyúlnak. Richarrd McClintock a virginiai Hampden-Sydney egyetem professzora kikereste az ismeretlenebb latin szavak közül az egyiket (consectetur) egy Lorem Ipsum részletbõl, és a klasszikus irodalmat átkutatva vitathatatlan forrást talált. A Lorem Ipsum az 1.10.32 és 1.10.33-as de Finibus Bonoruem et Malorum részleteibõl származik (A Jó és Rossz határai - Cicero), Kr. E. 45-bõl. A könyv az etika elméletét tanulmányozza, ami nagyon népszerû volt a reneszánsz korban. A Lorem Ipsum elsõ sora, Lorem ipsum dolor sit amet.. a 1.10.32-es bekezdésbõl származik.</p>
-<p>A Lorem Ipsum alaprészlete, amit az 1500-as évek óta használtak, az érdeklõdõk kedvéért lent újra megtekinthetõ. Az 1.10.32 és 1.10.33-as bekezdéseket szintén eredeti formájukban reprodukálták a hozzá tartozó angol változattal az 1914-es fordításból H. Rackhamtól.</p>
-<h3>Miért használjuk?</h3>
-<p>Ez egy régóta elfogadott tény, miszerint egy olvasót zavarja az olvasható szöveg miközben a szöveg elrendezését nézi. A Lorem Ipsum használatának lényege, hogy többé-kevésbé rendezettebb betûket tartalmaz, ellentétben a Tartalom helye, Tartalom helye-féle megoldással. Sok desktop szerkesztõ és weboldal szerkesztõ használja a Lorem Ipsum-ot mint alapbeállítású szövegmodellt, és egy keresés a lorem ipsum-ra sok félkész weboldalt fog eredményezni.</p>
-<h3>Honnan szerezhető be?</h3>
-<p>A Lorem Ipsum részleteinek sok változata elérhetõ, de a legtöbbet megváltoztatták egy kis humorral és véletlenszerûen kiválasztott szavakkal, amik kicsit sem teszik értelmessé. Ha használni készülsz a Lorem Ipsumot, biztosnak kell lenned abban, hogy semmi kínos sincs elrejtve a szöveg közepén. Az összes internetes Lorem Ipsum készítõ igyekszik elõre beállított részleteket ismételni a szükséges mennyiségben, ezzel téve az internet egyetlen igazi Lorem Ipsum generátorává ezt az oldalt. Az oldal körülbelül 200 latin szót használ, egy maroknyi modell-mondatszerkezettel így téve a Lorem Ipsumot elfogadhatóvá. Továbbá az elkészült Lorem Ipsum humortól, ismétlõdéstõl vagy értelmetlen szavaktól mentes.</p>
+<div class="row">
+    <div class="col-12">
+        <h1 class="my-3 text-center">Budapest Systema</h1>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-3 d-flex">
+        <img class="img-fluid mt-5 align-self-center" src="./images/<?=$fejlec['kepforras']?>">
+    </div>
+    <div class="col-md-9">
+
+        <p>A Systema egy komplex rendszer, mely magában foglal harcművészeti és önvédelmi edzést, kemény testedzést, önfegyelmi és önismereti gyakorlatokat, valamint egy egyszerűen elsajátítható öngyógyító módszert.</p><p>Alapcélja a tanulás és a gyógyulás, a megértésen és a tapasztalaton keresztül.A kemény edzés és a kihívások hatására a gyakorlónak önmagába kell néznie, megértenie félelmeit, a korlátait, a motivációját, az egóját, és túl kell tudnia lépni ezeken. Ez a különleges gyakorlat kezdetben sokaknak nehézségeket okoz. Az edzések sokszor testi és pszichés kényelmetlenségekbe és helyzetekbe helyezik az egyént. Az órák során azonban elsajátítunk egy különleges, természetes légzésformát, melyek segítenek áthidalni ezeket a pillanatokat, kitartásra és kontrollra tanítanak. Ezek a gyakorlatok a kinti élet stresszhelyzeteiben is könnyedén alkalmazhatóak. Minden emberben hatalmas erő rejtőzik, csak tudni kell, hogyan kell hozzáférni és alkalmazni azt.</p><p>A Budapest Systemát Anthony Lucas alapította 2013-ban, ez volt az első systema iskola Magyarországon, ami a Ryabko-Vasiliev stílust képviselte. 2015-ben Anthony hazaköltözött az Egyesült Államokba, az iskola vezetését három korábbi tanítványa Mraznicza Róbert, Henk Csaba és Haraga Ákos folytatta tovább, akik nem sokkal ezután az instruktori címet is megszerezték. 2016 végén további két nagy tapasztalattal rendelkező instruktor, Etter Dénes és Kászonyi Gábor is csatlakozott hozzájuk, akik azóta is hasznos tagjai a csapatnak.</p><p>A Budapest Systema célja minél több emberrel megismertetni ezt a különleges harcművészetet, ami a helyes légzésre, testtartásra, a relaxált folyamatos mozgásra, valamint a test biomechanikájának működésére is megtanítja a gyakorlókat.</p>    </div>
+</div>
+<div class="row">
+    <div class="col-md-6">
+        <div class="embed-responsive embed-responsive-21by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/sbhFvktrMdE?start=260" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+    </div>
+    <div class="col-md-6">
+    
+    </div>
+</div>

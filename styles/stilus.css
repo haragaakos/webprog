@@ -1,13 +1,29 @@
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 1rem;
+    font-family: 'Anton', sans-serif;
+    font-weight: 500;
+    line-height: 1.2;
+    font-size: 1.3rem;
+    color: inherit;
+    margin-top: 0.5rem;
+}
+
+#kard{
+    width: 60px;
+    text-align: center;
+    vertical-align: middle;
+    padding-right: 9px;
+}
 header {
     border-radius: 10px;
-    background-color: yellow;
     padding: 10px;
     margin: 10px;
 }
 
 header img {
     float: left;
-    margin: 20px 10px 0px 10px;
+    /* margin: 20px 10px 0px 10px; */
 }
 
 div#wrapper {
