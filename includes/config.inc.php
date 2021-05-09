@@ -24,7 +24,7 @@ $oldalak = array(
 	'/' => array('fajl' => 'cimlap', 'szoveg' => $ceg, 'menun' => array(1,1)),
 	'https://budapestsystema.hu/' => array('fajl' => 'bemutatkozas', 'szoveg' => 'Bemutatkozás', 'menun' => array(0,0)),
 	'kapcsolat' => array('fajl' => 'kapcsolat', 'szoveg' => 'Kapcsolat', 'menun' => array(1,1)),
-    'galeria' => array('fajl' => 'galeria', 'szoveg' => 'Galéria', 'menun' => array(0,1)),
+    'galeria' => array('fajl' => 'galeria', 'szoveg' => 'Galéria', 'menun' => array(1,1)),
     'uzenetkuldes' => array('fajl' => 'uzenetkuldes', 'szoveg' => 'Üzenet', 'menun' => array(0,0)),
     'uzenetek' => array('fajl' => 'uzenetek', 'szoveg' => 'Üzenetek', 'menun' => array(1,1)),
     'belepes' => array('fajl' => 'belepes', 'szoveg' => 'Belépés', 'menun' => array(1,0)),

@@ -1,6 +1,6 @@
 <?php
 
-if( isset($_SESSION['login'])) {
+
     try {
         // Kapcsolódás
         $dbh = new PDO('mysql:host=localhost;dbname=labor7', 'root', '',
@@ -32,8 +32,3 @@ if( isset($_SESSION['login'])) {
         $errormessage .= "Hiba: ".$e->getMessage(). "\n";
     }
 
-}
-else {
-    header("Location: .");
-}
-?>

@@ -65,7 +65,7 @@
 	
 	<main>
 		
-        <div class='container-fluid' id="container">
+        <div class='container' id="container">
             <?php include("./templates/pages/{$keres['fajl']}.tpl.php"); ?>
         </div>
     </main>
