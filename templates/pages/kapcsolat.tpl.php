@@ -5,7 +5,7 @@
 <div class="row g-3">
     <?php if(isset($_SESSION['login'])) { ?>       
         <div class="col-md-6">
-            <form action = "?oldal=uzenetkuldes" method = "post">
+            <form action = "?oldal=uzenetkuldes" id="kapcsolatform" method = "post">
                 <fieldset>
                     <legend>Írj nekünk</legend>
                     <div class="mb-3">
