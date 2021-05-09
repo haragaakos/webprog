@@ -10,7 +10,7 @@
 
         <div class="mb-3">
           <label for="jelszo">Jelszó</label>
-          <input type="password"  name="s" class="form-control" id="jelszo" required laceholder="Jelszó">
+          <input type="password"  name="jelszo" class="form-control" id="jelszo" required laceholder="Jelszó">
         </div>
         <div class="mb-3">
           <input class="btn" type="submit" name="belepes" value="Belépés">

@@ -41,8 +41,8 @@
 			<div class="collapse navbar-collapse" id="navbarNav">
 				<ul class="navbar-nav">
 					<?php foreach ($oldalak as $url => $oldal) { ?>
-							<?php if( $url!='/' && $url!="https://budapestsystema.hu/" && !isset($_SESSION['login']) && $oldal['menun'][0] || isset($_SESSION['login']) && $oldal['menun'][1]) { ?>
-									<li<?= (($oldal == $keres) ? ' class="nav-item active"' : '') ?>>
+							   <?php if( $url!='/' && $url!="https://budapestsystema.hu/" && !isset($_SESSION['login']) && $oldal['menun'][0] || isset($_SESSION['login']) && $oldal['menun'][1]) { ?>
+									<li<?= ($oldal == $keres) ? ' class="nav-item active"' : ' class="nav-item"' ?>>
 									<a class="nav-link" href="<?= '?oldal=' . $url ?>">
 									<?= $oldal['szoveg'] ?></a>
 									</li>
