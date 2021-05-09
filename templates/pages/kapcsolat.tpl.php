@@ -1,6 +1,6 @@
 <h2>Adatok:</h2>
-<p>Ügyvezető: <strong>Valaki Az</strong></p>
-<p>E-mail: <strong>valaki.az@minihonlap.hu</strong></p>
+<p>Ügyvezető: <strong>Haraga Ákos</strong></p>
+<p>E-mail: <strong>info@budapestsystema.hu</strong></p>
 
 <div class="row g-3">
     <?php if(isset($_SESSION['login'])) { ?>       
